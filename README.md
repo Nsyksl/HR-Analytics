@@ -7,7 +7,8 @@ Böylelikle şirketin insan kaynakları süreçlerini optimize etmesi ve çalı�
 Veri Seti : https://rpubs.com/rhuebner/hrd_cb_v14
 # Veri Seti Özellikleri :
 Features 
-*Empıoyee Name
+
+* Employee Name
 * EmplD
 * MamedID
 * MaritaIStatusID
